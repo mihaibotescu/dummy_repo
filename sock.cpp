@@ -14,6 +14,8 @@ int main () {
 	ClientSock cliSock5 {std :: move (cliSock)}; // move ctor
 	//cliSock5 = std :: move (cliSock2) ;// move = operator
 	cliSock5.send_message("ceva mesaj de test");
+
+	///////////// idk smth
 	//cout << "First assignment: " << endl;
 //	copy(cliSock);
 //	cout << "2nd assignment: " << endl;

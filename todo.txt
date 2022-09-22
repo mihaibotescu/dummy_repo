@@ -1,0 +1,4 @@
+1. TypeSafety -- py
+2. Destructor -- py
+3. JUnitTests -- py
+4. Incerc sa mostenesc clasa -- C++
